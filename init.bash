@@ -2,7 +2,7 @@
 
 
 BASE_VERSION=2.60.3
-UPDATE_VERSION=2.217
+UPDATE_VERSION=2.222.1
 
 docker pull jenkins:${BASE_VERSION}
 #wget http://updates.jenkins-ci.org/download/war/${UPDATE_VERSION}/jenkins.war
